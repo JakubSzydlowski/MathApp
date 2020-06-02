@@ -146,8 +146,8 @@ const show = function (e) {
                 youAre.textContent = 'Mogło być gorzej! A nie.. nie mogło. Jesteś cienias!';
                 lastName.textContent = 'cienias!'
             } else {
-                youAre.textContent = 'W taki czas nie uwierze! Sprawdzasz kim jesteś z takim czasem? Niewiernym Tomaszem.'
-                lastName.textContent = 'Niewiernym Tomaszem!'
+                youAre.textContent = 'Chyba chodziłeś na wagary zamiast na matme. Jesteś Wagarowiczem!'
+                lastName.textContent = 'Wagarowiczem!'
             }
             lastTime.textContent = stoper.textContent + 's';
         }
